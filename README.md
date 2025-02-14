@@ -33,4 +33,4 @@
  
  **5. Section *'Manager'*** : Run the manager of virtual camera.(Like Task Manager)
  
- **6. Main window** : Press *'Preview'* to start/stop preview. Press *'Start'* to start the virtual camera with the specific configuration and source.
+ **6. Main window** : Press *'Preview'* to start/stop previewing. Press *'Start'* to start the virtual camera with the specific configuration and source.
